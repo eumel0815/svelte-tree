@@ -1,5 +1,7 @@
 Tree-View Componente for svelete based on Bootstrap 5
 
+![TreeView](/tree.png?raw=true "TreeView")
+
 ## Prerequiste
 For this component you need Bootstrap 5. You can add the files in <svelte:head>
 
