@@ -1,4 +1,4 @@
-Tree-View Componente for svelete based on Bootstrap 5
+Tree-View Component for svelte based on Bootstrap 5
 
 ![TreeView](/tree.png?raw=true "TreeView")
 
