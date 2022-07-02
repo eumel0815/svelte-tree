@@ -1,5 +1,15 @@
 Tree-View Componente for svelete based on Bootstrap 5
 
+## Prerequiste
+For this component you need Bootstrap 5. You can add the files in <svelte:head>
+
+```html
+<svelte:head>
+	<link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
+	<link rel="stylesheet" href="node_modules/bootstrap-icons/font/bootstrap-icons.css">
+</svelte:head>
+```
+
 ## Usage
 
 ```js
